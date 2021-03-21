@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @exoticgenius
+- 👀 I’m interested in C# and deep learning
+- 🌱 I’m currently learning deep learning and disributed systems
+- 💞️ I’m looking to collaborate on project like my favorites
+- 📫 How to reach me realsadeghi@gmail.com
